@@ -1,7 +1,7 @@
 
 const config = {
     style: "mapbox://styles/mapbox/light-v10",
-    accessToken: "Your Access Token",
+    accessToken: "pk.eyJ1IjoibWFyZW5hYiIsImEiOiJjam42cXNpNjIwMmxlM3lwYmxuZXAwdzh3In0.gPwDgUG31QDzSFg2Gohmtw",
     CSV: "./Example.csv",
     center: [-120.234, 47.398], //Lng, Lat
     zoom: 6, //Default zoom
